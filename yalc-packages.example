@@ -21,7 +21,6 @@
 ../api-plugins/api-plugin-orders=true
 ../api-plugins/api-plugin-payments=true
 ../api-plugins/api-plugin-payments-example=true
-../api-plugins/api-plugin-payments-stripe=true
 ../api-plugins/api-plugin-pricing-simple=true
 ../api-plugins/api-plugin-products=true
 ../api-plugins/api-plugin-settings=true

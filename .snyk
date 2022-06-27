@@ -81,8 +81,6 @@ patch:
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-payments-example > @reactioncommerce/api-utils > lodash':
         patched: '2020-09-17T21:41:02.328Z'
-    - '@reactioncommerce/api-plugin-payments-stripe > @reactioncommerce/api-utils > lodash':
-        patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-pricing-simple > @reactioncommerce/api-utils > lodash':
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-products > @reactioncommerce/api-utils > lodash':
@@ -110,8 +108,6 @@ patch:
     - '@reactioncommerce/api-plugin-taxes-flat-rate > @reactioncommerce/api-utils > lodash':
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-translations > @reactioncommerce/api-utils > lodash':
-        patched: '2020-09-17T21:41:02.328Z'
-    - '@reactioncommerce/api-plugin-payments-stripe > nock > lodash':
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-core > diehard > async > lodash':
         patched: '2020-09-17T21:41:02.328Z'
